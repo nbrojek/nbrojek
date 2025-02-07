@@ -69,7 +69,7 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
- ### <picture> <img src = "https://github.com/nbrojek/nbrojek/blob/main/gif2.gif" width = 50px>  </picture> IDEs
+ ### <picture> <img src = "https://github.com/nbrojek/nbrojek/blob/main/gif2.gif" width = 50px>  </picture> IDEs:
  
 <p align="center">
   &emsp;
@@ -82,7 +82,7 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/nbrojek/nbrojek/blob/main/gif3.gif" width = 50px>  </picture> Competitive Programming & Problem Solving
+ ### <picture> <img src = "https://github.com/nbrojek/nbrojek/blob/main/gif3.gif" width = 50px>  </picture> Problem Solving & Programming:
  
 <p align="center">
   &emsp;
@@ -99,7 +99,7 @@
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/nbrojek/nbrojek/blob/main/gif4.gif" width = 50px>  </picture> Operating Systems
+ ### <picture> <img src = "https://github.com/nbrojek/nbrojek/blob/main/gif4.gif" width = 50px>  </picture> Operating Systems:
  
 <p align="center">
   &emsp;
