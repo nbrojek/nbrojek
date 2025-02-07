@@ -9,7 +9,7 @@
 - :student: I’m currently learning `Computer Architecture`. 
 <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
 - :boom: You can visit [MY WEBSITE]().-->
-<br>
+
 
 ## 🛠️ My Skills:
 
