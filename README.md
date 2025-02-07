@@ -8,22 +8,12 @@
 
 <br><br>
 
-- :school: I am a `Senior` studying [Computer Science] at [Umass Amherst](https://www.cics.umass.edu/).
+- :school: I am a `Senior` studying Computer Science at [Umass Amherst](https://www.cics.umass.edu/).
 - :technologist: Aspiring Software Engineer.
 - :student: I’m currently learning `Computer Architecture` 
 <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
 - :boom: You can visit [MY WEBSITE]().-->
 <br>
-
-
-##  Connect with me
-<p align="center">
-	<a href="mailto:nicholasbrojek@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/nicholas-brojek-30a8b9204"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	
-</p>
-
-
 
 ## 🛠️ My Skills
 
@@ -114,7 +104,12 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
-
+##  Connect with me
+<p align="center">
+	<a href="mailto:nicholasbrojek@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/nicholas-brojek-30a8b9204"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	
+</p>
 
 
 </br></br>
