@@ -2,8 +2,7 @@
 
 ## 👤About Me:
 
-<picture> <img align="right" src="https://github.com/nbrojek/nbrojek/blob/main/RSGIF.gif?raw=true" width = 250px></picture>
-
+<picture> <img align="right" src="https://github.com/nbrojek/nbrojek/blob/main/RSGIF.gif?raw=true" width = 150px></picture>
 
 - :school: I am a `Senior` studying Computer Science at [Umass Amherst](https://www.cics.umass.edu/).
 - :technologist: Aspiring Software Engineer.
