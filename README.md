@@ -8,14 +8,14 @@
 
 - :school: I am a `Senior` studying Computer Science at [Umass Amherst](https://www.cics.umass.edu/).
 - :technologist: Aspiring Software Engineer.
-- :student: I’m currently learning `Computer Architecture` 
+- :student: I’m currently learning `Computer Architecture`. 
 <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
 - :boom: You can visit [MY WEBSITE]().-->
 <br>
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages:
+### <picture> <img src = "https://github.com/nbrojek/nbrojek/blob/main/Programming_Languages.gif" width = 50px>  </picture> Programming languages:
 
 <p align="center"> 
   &emsp; 
