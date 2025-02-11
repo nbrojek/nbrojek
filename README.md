@@ -10,7 +10,6 @@
 <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
 - :boom: You can visit [MY WEBSITE]().-->
 
-
 ## 🛠️ My Skills:
 
 ### <picture> <img src = "https://github.com/nbrojek/nbrojek/blob/main/Programming_Languages.gif" width = 50px>  </picture> Programming languages:
@@ -32,7 +31,7 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
-</p>
+</p>  
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development:
 <p align="center"> 
