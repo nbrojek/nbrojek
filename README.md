@@ -6,7 +6,7 @@
 
 - :school: I just finished up my BS in Computer Science at [Umass Amherst](https://www.cics.umass.edu/).
 - :technologist: Aspiring Software Engineer.
-- :student: I’m currently learning `Computer Architecture`. 
+- :student: I’m currently learning `Web Development`. 
 <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
 - :boom: You can visit [MY WEBSITE]().-->
 
