@@ -4,7 +4,7 @@
 
 <picture> <img align="right" src="https://github.com/nbrojek/nbrojek/blob/main/RSGIF.gif?raw=true" width = 150px></picture>
 
-- :school: I am a `Senior` studying Computer Science at [Umass Amherst](https://www.cics.umass.edu/).
+- :school: I just finished up my BS in Computer Science at [Umass Amherst](https://www.cics.umass.edu/).
 - :technologist: Aspiring Software Engineer.
 - :student: I’m currently learning `Computer Architecture`. 
 <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
